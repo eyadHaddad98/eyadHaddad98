@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Eyad Haddad 👋
 
-<!--
-**eyadHaddad98/eyadHaddad98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Interested in Software Development, Cybersecurity, DevOps & AI
 
-Here are some ideas to get you started:
+## 🛠️ Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Java
+- C#
+- JavaScript
+- SQL
+- Linux
+- Docker
+- Git & GitHub
+
+## 🚀 Featured Projects
+
+### 🔐 Cybersecurity Fuzzing Project
+Security research using AFL++, AddressSanitizer, GDB, CodeQL and libarchive to analyze software vulnerabilities.
+
+### 🏧 ATM System
+A desktop ATM simulator built with Python, Tkinter and SQLite.
+
+### 🎮 Smart Gomoku
+A Gomoku game built with C# and WinForms, including AI-based gameplay.
+
+## 📫 Connect with Me
+
+- LinkedIn: www.linkedin.com/in/eyad-haddad
+- GitHub: @eyadHaddad98
