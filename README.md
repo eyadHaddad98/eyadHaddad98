@@ -19,6 +19,7 @@
 | Project | Languages / Technologies | Description | Status |
 |---|---|---|---|
 | 🔐 **File Parser Fuzzing Lab** | C, AFL++, ASan, GDB, CodeQL, Linux | C file parser fuzzing lab for discovering and analyzing memory vulnerabilities using AFL++ | 🔄 In Progress |
+| ✋ **Hand-Tracking Math Quiz** | Python, OpenCV, MediaPipe, Tkinter | Gesture-controlled math quiz with real-time hand tracking, timed questions, randomized exams and answer review | ✅ Completed |
 | ⌨️ **AI Virtual Keyboard** | Python, OpenCV, MediaPipe, cvzone | Virtual keyboard controlled through real-time hand tracking and computer vision | ✅ Completed |
 | 🎮 **Smart Gomoku** | C#, .NET, WinForms, EF Core, SQLite | Gomoku game with AI opponents, multiple difficulty levels and database integration | ✅ Completed |
 | 🏧 **ATM System** | Python, Tkinter, SQLite | Desktop ATM simulator with GUI and database integration | ✅ Completed |
