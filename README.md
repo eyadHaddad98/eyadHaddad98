@@ -14,22 +14,23 @@
 - Docker
 - Git & GitHub
 
+
 ## 🚀 Projects
 
 | Project | Languages / Technologies | Description | Status |
 |---|---|---|---|
-
-| 🔐 [**File Parser Fuzzing Lab**](https://github.com/eyadHaddad98/FileParser-Fuzzing-Lab) | C, AFL++, ASan, GDB, CodeQL, Linux | Cybersecurity project demonstrating vulnerability discovery, stack buffer overflow analysis, static security scanning, and secure code remediation | ✅ Completed |
-| ✋ [**Hand-Tracking Math Quiz**](https://github.com/eyadHaddad98/Hand-Tracking-Math-Quiz) | Python, OpenCV, MediaPipe, Tkinter | Gesture-controlled math quiz with real-time hand tracking, timed questions, randomized exams and answer review | ✅ Completed |
-| 📋 [**Task Management System**](https://github.com/eyadHaddad98/task-management-system) | Java, Spring Boot, JPA, Hibernate, SQLite, HTML, CSS, JavaScript, Maven | Full-stack task management web application with CRUD operations, task filtering, due dates, and persistent SQLite storage | ✅ Completed |
-| ⌨️ [**AI Virtual Keyboard**](https://github.com/eyadHaddad98/AI-Virtual-Keyboard) | Python, OpenCV, MediaPipe, cvzone | Virtual keyboard controlled through real-time hand tracking and computer vision | ✅ Completed |
-| 🎮 [**Smart Gomoku**](https://github.com/eyadHaddad98/SmartGomoku) | C#, .NET, WinForms, EF Core, SQLite | Gomoku game with AI opponents, multiple difficulty levels and database integration | ✅ Completed |
+| 🔐 [**File Parser Fuzzing Lab**](https://github.com/eyadHaddad98/FileParser-Fuzzing-Lab) | C, AFL++, ASan, GDB, CodeQL, Linux | Memory vulnerability discovery, fuzzing, static analysis, and secure code remediation | ✅ Completed |
+| ✋ [**Hand-Tracking Math Quiz**](https://github.com/eyadHaddad98/Hand-Tracking-Math-Quiz) | Python, OpenCV, MediaPipe, Tkinter | Gesture-controlled math quiz with real-time hand tracking and timed questions | ✅ Completed |
+| 📋 [**Task Management System**](https://github.com/eyadHaddad98/task-management-system) | Java, Spring Boot, JPA, Hibernate, SQLite, HTML, CSS, JavaScript, Maven | Full-stack task manager with CRUD, filtering, due dates, and persistent storage | ✅ Completed |
+| ⌨️ [**AI Virtual Keyboard**](https://github.com/eyadHaddad98/AI-Virtual-Keyboard) | Python, OpenCV, MediaPipe, cvzone | Virtual keyboard controlled through real-time hand tracking | ✅ Completed |
+| 🎮 [**Smart Gomoku**](https://github.com/eyadHaddad98/SmartGomoku) | C#, .NET, WinForms, EF Core, SQLite | Gomoku game with AI opponents and database integration | ✅ Completed |
 | 🏧 [**ATM System**](https://github.com/eyadHaddad98/ATM-System-Python) | Python, Tkinter, SQLite | Desktop ATM simulator with GUI and database integration | ✅ Completed |
-| 🔊 [**Text-to-Speech**](https://github.com/eyadHaddad98/text-to-speech) | JavaScript, HTML, CSS | Web application that converts text to speech in multiple languages | ✅ Completed |
+| 🔊 [**Text-to-Speech**](https://github.com/eyadHaddad98/text-to-speech) | JavaScript, HTML, CSS | Multilingual text-to-speech web application | ✅ Completed |
 | 🐍 [**Snake Game**](https://github.com/eyadHaddad98/snakeGame) | Java | Classic Snake game demonstrating OOP and GUI programming | ✅ Completed |
 | ✊ [**Rock Paper Scissors**](https://github.com/eyadHaddad98/rockPaperGame) | JavaScript, HTML, CSS | Rock-Paper-Scissors game against the computer | ✅ Completed |
 | 🐦 [**Flappy Bird**](https://github.com/eyadHaddad98/FlappyBird) | JavaScript, HTML, CSS | Browser-based Flappy Bird game | ✅ Completed |
 | 🧮 [**Calculator**](https://github.com/eyadHaddad98/Calculator) | JavaScript, HTML, CSS | Interactive web calculator | ✅ Completed |
+
 
 ## 📫 Connect with Me
 
