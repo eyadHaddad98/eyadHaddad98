@@ -3,16 +3,22 @@
 🎓 Computer Science Student  
 💻 Interested in Software Development, Cybersecurity, DevOps & AI
 
+## 📫 Connect with Me
+
+- LinkedIn: www.linkedin.com/in/eyad-haddad
+- GitHub: @eyadHaddad98
+
+  
 ## 🛠️ Technologies
 
 - Python
 - Java
 - C#
-- JavaScript
 - SQL
 - Linux
 - Docker
-- Git & GitHub
+- GDB
+- CodeQL
 
 
 ## 🚀 Projects
@@ -31,8 +37,3 @@
 | 🐦 [**Flappy Bird**](https://github.com/eyadHaddad98/FlappyBird) | JavaScript, HTML, CSS | Browser-based Flappy Bird game | ✅ Completed |
 | 🧮 [**Calculator**](https://github.com/eyadHaddad98/Calculator) | JavaScript, HTML, CSS | Interactive web calculator | ✅ Completed |
 
-
-## 📫 Connect with Me
-
-- LinkedIn: www.linkedin.com/in/eyad-haddad
-- GitHub: @eyadHaddad98
