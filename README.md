@@ -18,7 +18,8 @@
 
 | Project | Languages / Technologies | Description | Status |
 |---|---|---|---|
-| 🔐 **File Parser Fuzzing Lab** | C, AFL++, ASan, GDB, CodeQL, Linux | C file parser fuzzing lab for discovering and analyzing memory vulnerabilities using AFL++ | 🔄 In Progress |
+
+| 🔐 [**File Parser Fuzzing Lab**](https://github.com/eyadHaddad98/FileParser-Fuzzing-Lab) | C, AFL++, ASan, GDB, CodeQL, Linux | Cybersecurity project demonstrating vulnerability discovery, stack buffer overflow analysis, static security scanning, and secure code remediation | ✅ Completed |
 | ✋ [**Hand-Tracking Math Quiz**](https://github.com/eyadHaddad98/Hand-Tracking-Math-Quiz) | Python, OpenCV, MediaPipe, Tkinter | Gesture-controlled math quiz with real-time hand tracking, timed questions, randomized exams and answer review | ✅ Completed |
 | 📋 [**Task Management System**](https://github.com/eyadHaddad98/task-management-system) | Java, Spring Boot, JPA, Hibernate, SQLite, HTML, CSS, JavaScript, Maven | Full-stack task management web application with CRUD operations, task filtering, due dates, and persistent SQLite storage | ✅ Completed |
 | ⌨️ [**AI Virtual Keyboard**](https://github.com/eyadHaddad98/AI-Virtual-Keyboard) | Python, OpenCV, MediaPipe, cvzone | Virtual keyboard controlled through real-time hand tracking and computer vision | ✅ Completed |
