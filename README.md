@@ -25,6 +25,7 @@
 
 | Project | Languages / Technologies | Description | Status |
 |---|---|---|---|
+| 🤖 [**AlgoTutor – AI Algorithms Tutor**](https://github.com/eyadHaddad98/AlgoTutor) | Python, Flask, RAG, Claude AI, ChromaDB, PostgreSQL, Docker, LangChain | AI-powered algorithms tutor with lecture-based RAG, intelligent tool calling, and interactive graph visualizations | ✅ Completed |
 | 🔐 [**File Parser Fuzzing Lab**](https://github.com/eyadHaddad98/FileParser-Fuzzing-Lab) | C, AFL++, ASan, GDB, CodeQL, Linux | Memory vulnerability discovery, fuzzing, static analysis, and secure code remediation | ✅ Completed |
 | ✋ [**Hand-Tracking Math Quiz**](https://github.com/eyadHaddad98/Hand-Tracking-Math-Quiz) | Python, OpenCV, MediaPipe, Tkinter | Gesture-controlled math quiz with real-time hand tracking and timed questions | ✅ Completed |
 | 📋 [**Task Management System**](https://github.com/eyadHaddad98/task-management-system) | Java, Spring Boot, JPA, Hibernate, SQLite, HTML, CSS, JavaScript, Maven | Full-stack task manager with CRUD, filtering, due dates, and persistent storage | ✅ Completed |
